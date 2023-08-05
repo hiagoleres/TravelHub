@@ -1,4 +1,4 @@
-Sobre o TravelHub
+### Sobre o TravelHub
 O TravelHub é uma plataforma online que oferece uma variedade de recursos e serviços para viajantes, desde a fase de planejamento até o retorno para casa. O objetivo é simplificar e enriquecer a experiência de viagem dos usuários, fornecendo informações confiáveis, dicas úteis, reservas de viagens e conexões com outros viajantes.
 
 1 - Autenticação e Registro:
