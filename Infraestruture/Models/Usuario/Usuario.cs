@@ -1,4 +1,6 @@
-﻿namespace TravelHub.Models.Usuario
+﻿using TravelHub.Models.VOs;
+
+namespace TravelHub.Models.Usuario
 {
     public class Usuario
     {
@@ -12,5 +14,7 @@
         public string Senha { get; set; }
 
         public DateTime DataNascimento { get; set; }
+
+        public string Role { get; set; }
     }
 }
